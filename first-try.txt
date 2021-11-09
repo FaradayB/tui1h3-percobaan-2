@@ -1,2 +1,3 @@
 ini adalah latihan mandiri pertama
 saya coba memahami git    
+saya mencoba yang ketiga
